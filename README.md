@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Adna Mohammed
+- 👋 Hi, I’m Adnan Mohammed
 - 👀 I’m interested in football, handball, playing games and running.
 - 🌱 I’m currently learning Python programming, C language and Turkish language.
 - 💞️ I’m looking to collaborate on Python programming ang HTML & CSS.
